@@ -1,0 +1,2 @@
+# Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision-LIM-Model
+This project implements an Application Tracking System (ATS) designed to streamline the recruitment process by leveraging Google's Gemini Pro Vision LIM model. The system automates the extraction and analysis of resumes and job descriptions, providing recruiters with a powerful AI-based tool to assess candidates efficiently.
