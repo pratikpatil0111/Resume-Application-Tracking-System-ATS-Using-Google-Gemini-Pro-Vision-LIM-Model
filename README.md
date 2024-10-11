@@ -3,10 +3,10 @@ This project implements an Application Tracking System (ATS) designed to streaml
 
 
 ## Key Features:
-### Resume Parsing: Uses advanced language and image processing to extract candidate details from uploaded PDFs.
+Resume Parsing: Uses advanced language and image processing to extract candidate details from uploaded PDFs.
 
-### Job Matching: Compares candidate qualifications with job descriptions to suggest best matches.
+Job Matching: Compares candidate qualifications with job descriptions to suggest best matches.
 
-### AI-Powered Insights: Powered by the Google Gemini Pro Vision LIM model, providing accurate analysis and matching algorithms.
+AI-Powered Insights: Powered by the Google Gemini Pro Vision LIM model, providing accurate analysis and matching algorithms.
 
-### Interactive Interface: Built with Streamlit to offer an intuitive UI for recruiters and hiring managers.
+Interactive Interface: Built with Streamlit to offer an intuitive UI for recruiters and hiring managers.
