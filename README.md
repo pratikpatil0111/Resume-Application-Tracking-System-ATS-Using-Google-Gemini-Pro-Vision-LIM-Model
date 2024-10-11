@@ -10,3 +10,16 @@ Job Matching: Compares candidate qualifications with job descriptions to suggest
 AI-Powered Insights: Powered by the Google Gemini Pro Vision LIM model, providing accurate analysis and matching algorithms.
 
 Interactive Interface: Built with Streamlit to offer an intuitive UI for recruiters and hiring managers.
+
+## Technologies Used:
+Python
+
+Google Gemini Pro Vision LIM model
+
+Streamlit for web-based UI
+
+pdf2image for handling PDF documents
+
+Poppler for PDF parsing
+
+This system is ideal for small to medium-sized businesses looking to automate and enhance their recruitment workflow.
